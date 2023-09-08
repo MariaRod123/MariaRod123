@@ -21,6 +21,8 @@ En mi repositorio encontrarás mis avances en el mundo de la programación.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
 - ![Java](https://img.shields.io/badge/-Java-red)
+- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+
   
 ## Herramientas y entornos 
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
