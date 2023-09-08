@@ -14,14 +14,19 @@ En mi repositorio encontrarás mis avances en el mundo de la programación. ¡Es
 
 ## Lenguajes que estoy aprendiendo
 
-- Python ![Python](https://img.shields.io/badge/-Python-blue)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- HTML/CSS ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
-- Java ![Java](https://img.shields.io/badge/-Java-red)
+- ![Python](https://img.shields.io/badge/-Python-blue)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
+- ![Java](https://img.shields.io/badge/-Java-red)
   
-## Otras herramientas/tecnologías 
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+## Herramientas y entornos 
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code)
+- ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-red?logo=intellij-idea)
+- ![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm)
+
 
 
 ¡Gracias por visitar mi perfil y por ser parte de mi viaje!
