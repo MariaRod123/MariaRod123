@@ -33,6 +33,5 @@ En mi repositorio encontrarás mis avances en el mundo de la programación.
 - ![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm)
 
 
-
 ¡Gracias por visitar mi perfil y por ser parte de mi viaje!
 
