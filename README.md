@@ -10,7 +10,10 @@ Soy María, una apasionada observadora meteorológica de Salto, Uruguay. Desde s
 ## Mi viaje en la programación
 
 Aunque mi corazón siempre ha estado en la meteorología también tengo intereses diversos en otras áreas entre ellas la tecnología y programación; es por esto que he decidido embarcarme en esta emocionante aventura de aprendizaje.
-En mi repositorio encontrarás mis avances en el mundo de la programación. ¡Estoy emocionada por lo que el futuro me depara y por las oportunidades que esta nueva habilidad me brindará!
+
+En mi repositorio encontrarás mis avances en el mundo de la programación. 
+
+¡Estoy emocionada por lo que el futuro me depara y por las oportunidades que esta nueva habilidad me brindará!
 
 ## Lenguajes que estoy aprendiendo
 
