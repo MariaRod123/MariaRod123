@@ -17,7 +17,11 @@ En mi repositorio encontrarás mis avances en el mundo de la programación. ¡Es
 - Python ![Python](https://img.shields.io/badge/-Python-blue)
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - HTML/CSS ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
-
+- Java ![Java](https://img.shields.io/badge/-Java-red)
+  
+## Otras herramientas/tecnologías 
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 
 ¡Gracias por visitar mi perfil y por ser parte de mi viaje!
