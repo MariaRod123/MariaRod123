@@ -5,7 +5,7 @@
 
 ## Sobre mí
 
-Soy María, una apasionada observadora meteorológica de Salto, Uruguay. Desde siempre, he sentido gran fascinación por los fenómenos atmosféricos y he pasado innumerables horas estudiando el cielo y observado fenómenos meteorológicos.
+Soy María, una apasionada observadora meteorológica de Uruguay. Desde siempre, he sentido gran fascinación por los fenómenos atmosféricos y he pasado innumerables horas estudiando el cielo y observado fenómenos meteorológicos.
 
 ## Mi viaje en la programación
 
